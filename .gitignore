@@ -1,0 +1,8 @@
+.DS_Store
+**/target/
+
+datetimes/
+fitness/
+random/
+regular-expressions/
+playground/
