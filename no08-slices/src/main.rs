@@ -8,11 +8,6 @@ fn main() {
     deref_coercion_with_array_slices();
     mutable_array_slices();
     project();
-
-    let city = String::from("Dallas");
-
-    let a = &city;
-    let b = &city[..];
 }
 
 fn create_a_string_slice_from_a_string() {
