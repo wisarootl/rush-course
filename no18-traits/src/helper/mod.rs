@@ -1,0 +1,6 @@
+pub mod no01_defining_a_trait;
+pub mod no02_a_preview_of_trait_objects;
+pub mod no03_trait_must_be_in_scope_to_use_its_definitions;
+pub mod no04_moving_to_project_structure;
+pub mod no05_associated_constants_in_a_trait;
+pub mod no06_implementing_the_display_trait_on_a_struct;
