@@ -1,0 +1,2 @@
+pub mod no01_concrete_lifetimes_for_values;
+pub mod no02_concrete_lifetimes_for_references;
