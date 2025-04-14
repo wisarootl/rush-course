@@ -1,0 +1,14 @@
+pub mod no01_nested_functions;
+pub mod no02_intro_to_closures;
+pub mod no03_closure_shortcuts;
+pub mod no04_closures_that_capture_immutable_references;
+pub mod no05_closures_that_capture_mutable_references;
+pub mod no06_closures_with_ownership;
+pub mod no07_move_keyword;
+pub mod no08_unwrap_or_else_method;
+pub mod no09_defining_a_method_that_accepts_a_closure_i;
+pub mod no10_string_retain_method;
+pub mod no11_defining_a_method_that_accepts_a_closure_ii;
+pub mod no12_fn_trait;
+pub mod no13_passing_in_a_function_to_fn_trait_parameter;
+pub mod project;
