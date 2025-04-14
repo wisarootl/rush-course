@@ -12,4 +12,8 @@ fn main() {
     helper::no09_lifetime_elision_rules_i::main();
     helper::no10_multiple_parameters::main();
     helper::no11_lifetime_elision_rules_ii::main();
+    helper::no12_lifetimes_in_structs::main();
+    helper::no13_multiple_lifetimes::main();
+    helper::no14_static_lifetime::main();
+    helper::project::main();
 }

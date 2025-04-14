@@ -9,3 +9,7 @@ pub mod no08_lifetimes_and_referents;
 pub mod no09_lifetime_elision_rules_i;
 pub mod no10_multiple_parameters;
 pub mod no11_lifetime_elision_rules_ii;
+pub mod no12_lifetimes_in_structs;
+pub mod no13_multiple_lifetimes;
+pub mod no14_static_lifetime;
+pub mod project;
