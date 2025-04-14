@@ -1,5 +1,8 @@
 pub fn main() {
-    let dog = String::from("Watson");
+    println!("=== no02_concrete_lifetimes_for_references ===");
+    // ref do not outlive value
+    let dog = String::from("Milo");
+    let my_pet = &dog;
 
     {
         let my_pet = &dog;
@@ -12,4 +15,5 @@ pub fn main() {
         let my_pet = &dog;
         println!("{my_pet}");
     }
+    println!("{my_pet}");
 }

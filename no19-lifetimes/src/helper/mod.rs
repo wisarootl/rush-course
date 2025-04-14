@@ -1,2 +1,11 @@
 pub mod no01_concrete_lifetimes_for_values;
 pub mod no02_concrete_lifetimes_for_references;
+pub mod no03_non_lexical_lifetimes;
+pub mod no04_invalid_lifetimes;
+pub mod no05_functions_cannot_return_references_to_owned_values_or_parameters;
+pub mod no06_references_as_function_parameters;
+pub mod no07_intro_to_generic_lifetimes;
+pub mod no08_lifetimes_and_referents;
+pub mod no09_lifetime_elision_rules_i;
+pub mod no10_multiple_parameters;
+pub mod no11_lifetime_elision_rules_ii;
