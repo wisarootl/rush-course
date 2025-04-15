@@ -24,4 +24,18 @@ fn main() {
     helper::no21_flat_map_method::main();
     helper::no22_enumerate_method::main();
     helper::no23_partition_method::main();
+    helper::no24_zip_method::main();
+    helper::no25_fold_method::main();
+    helper::no26_reduce_method::main();
+    helper::no27_sum_product_max_min_and_count_methods::main();
+    helper::no28_last_nth_nth_back_and_position_methods::main();
+    helper::no29_take_rev_skip_and_step_by_methods::main();
+    helper::no30_sort_and_sort_by_key_methods::main();
+    helper::no31_lines_method::main();
+    helper::no32_collecting_command_line_arguments_i::main();
+    helper::no33_collecting_command_line_arguments_ii::main();
+    helper::no34_reading_directory::main();
+    helper::no35_from_iterator_trait::main();
+    // helper::project_wordle::main(); // require user input
+    helper::project::main();
 }
